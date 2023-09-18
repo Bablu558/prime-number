@@ -1,0 +1,16 @@
+h1{
+    background-color: aqua;
+
+}
+p{
+    background-color: brown;
+    color: white;
+    
+}
+.container{
+    border: 2px solid black;
+    margin-top: 20%;
+    margin-left: 35%;
+    margin-right: 20%;
+    background-color: darkgrey;
+}
